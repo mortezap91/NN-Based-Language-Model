@@ -4,7 +4,7 @@ This repository contains a basic implementation of a Neural Network-Based Langua
 
 Main Features
 
-Model: Uses RNN, LSTM, and GRU to predict the next word in a sequence.
+Model: Uses RNN, and LSTM to predict the next word in a sequence.
 
 Data: Text data is preprocessed into a format suitable for training.
 
